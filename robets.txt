@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://capcut-pi-bice.vercel.app/sitemap.xml
